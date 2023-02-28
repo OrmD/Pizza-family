@@ -1905,6 +1905,8 @@ html.light .body-menu__block {
 }
 .reserv__container {
   height: 100%;
+  position: relative;
+  z-index:1;
 }
 .reserv__body {
   margin-top: 115px;
